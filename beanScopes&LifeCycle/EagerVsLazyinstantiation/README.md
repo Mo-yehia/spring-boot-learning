@@ -6,10 +6,6 @@ This is a simple Spring project to demonstrate:
 - How bean instantiation works based on configuration.
 - How to track the creation of beans in the console.
 
-# Eager vs Lazy Instantiation
-
-This simple Spring project demonstrates the difference between **Eager** and **Lazy** bean instantiation using Spring's `@Bean` and `@Lazy` annotations.
-
 ---
 
 ## What This Project Shows
