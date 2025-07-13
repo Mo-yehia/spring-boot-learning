@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/Bean-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/Bean-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/Programmatically/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/Programmatically/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/stereotype-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/addBeansToSpringContext/stereotype-annotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beanScopes&amp;LifeCycle/EagerVsLazyinstantiation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beanScopes&amp;LifeCycle/EagerVsLazyinstantiation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beanScopes&amp;LifeCycle/SingletonVsPrototype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beanScopes&amp;LifeCycle/SingletonVsPrototype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/autowiredAnnotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/autowiredAnnotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/directMethodCall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/directMethodCall/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/methodParameter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/relationshipsAmongBeans/methodParameter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springContextUsingAbstractions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springContextUsingAbstractions/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
