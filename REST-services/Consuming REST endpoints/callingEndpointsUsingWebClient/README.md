@@ -69,7 +69,7 @@ If amount ≤ 1000.0 → ✅ accepted, returns:
 ### Related Project
 This application works together with:
 
-[PaymentService]() — the backend service that actually processes payments.
+[PaymentService](https://github.com/Mo-yehia/spring-boot-learning/tree/main/REST-services/implementation/PaymentService) — the backend service that actually processes payments.
 
 ---
 ## Notes
