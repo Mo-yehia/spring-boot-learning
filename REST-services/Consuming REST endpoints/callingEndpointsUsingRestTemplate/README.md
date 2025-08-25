@@ -1,4 +1,4 @@
-# CallingEndpointsUsingRestTemplate
+# Calling Endpoints Using RestTemplate
 
 This Spring Boot application demonstrates how to call external REST endpoints using the classic synchronous `RestTemplate`. It acts as a simple client service that forwards payment requests to an external service [PaymentService](https://github.com/Mo-yehia/spring-boot-learning/tree/main/REST-services/implementation/PaymentService).
 
