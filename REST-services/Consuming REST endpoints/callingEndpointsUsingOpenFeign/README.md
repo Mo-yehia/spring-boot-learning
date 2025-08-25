@@ -1,4 +1,4 @@
-# callingEndpointsUsingOpenFeign
+# Calling Endpoints Using OpenFeign
 
 This Spring Boot microservice demonstrates how to call an external **Payment Service** using **OpenFeign**.  
 It sends a `POST` request to the `/payment` endpoint of the [payment service](https://github.com/Mo-yehia/spring-boot-learning/tree/main/REST-services/implementation/PaymentService), including a unique `requestId` in the headers for tracing.
